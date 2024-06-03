@@ -1,0 +1,6 @@
+__mocks__
+__tests__
+dist
+e2e
+node_modules
+public
